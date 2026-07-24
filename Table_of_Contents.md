@@ -1,9 +1,9 @@
-# Table of Contents – Federal Legal Vault
+# Table of Contents
 
 - [[ERISA/29_USC_1002]]
 - [[ERISA/29_USC_1003]]
-- [[ERISA/29_USC_1132(a)]]
 - [[ERISA/29_USC_1132]]
+- [[ERISA/29_USC_1132(a)]]
 - [[ERISA/29_USC_1144]]
 - [[ERISA/Overview/ERISA_Overview]]
 - [[ERISA/Statutes/ERISA_502a]]
@@ -21,4 +21,3 @@
 - [[ERISA/USC_1140]]
 - [[ERISA/USC_1144]]
 - [[Resources/ERISA/Overview/ERISA_Overview]]
-- [[Table_of_Contents]]
